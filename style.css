@@ -1,0 +1,50 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+}
+.orange-color{
+    color: orange;
+}
+.half-width{
+    width: 50%;
+    padding: 5%;
+}
+.flexible-container{
+    display: flex;
+    
+}
+.diet{
+    font-size: 30px;
+    font-weight: 900;
+}
+.butoon{
+    text-decoration: none;
+    border-radius: 15px;
+    background-image: linear-gradient(orange, tomato);
+    color: white;
+    font-size: 15px;
+    border: 0;
+    padding: 10px 30px;
+}
+#image-width-first{
+    max-width: 100%;
+}
+#font{
+    padding-top: 17%;
+}
+#image-width-second{
+    max-width: 60%;
+    padding-left: 20%;
+}
+#font-second{
+    padding-top: 17%;
+    padding-right: 10%;
+}
+p{
+    margin-bottom: 65px;
+}
+.background-image{
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+}
